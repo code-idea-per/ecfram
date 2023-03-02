@@ -1,0 +1,161 @@
+.bn {
+    width: auto;
+    height: 60px;
+    border: none;
+    padding: 10px;
+    display: inline-block;
+  }
+  
+.rd10 {
+    border-radius: 10px 10px;
+}
+
+.pd20 {
+    padding: 20px;
+}
+  
+.mtop5 {
+    margin-top: 5px;
+}
+
+.mleft5 {
+    margin-left: 5px;
+}
+
+.ts-04 {
+    transition-duration: 0.4s;
+}
+
+.a-shd {
+    box-shadow: 0px 0px 5px;
+}
+  
+.b-success {
+    background: #00763c;
+    color: #FFFFFF;
+}
+  
+.b-success {
+    transition-duration: 0.4s;
+}
+  
+.b-success:hover {
+    color: #00763c;
+    background: #FFFFFF;  
+}
+
+/* primary b */
+
+.b-primary { transition-duration: 0.4s; }
+
+.b-primary:hover {
+    color: #0081ff;
+    background: none;
+  }
+  
+.b-primary {
+    color: #FFFFFF;
+    background: #0081ff; 
+}
+
+/* danger b */
+
+.b-danger { transition-duration: 0.4s; }
+
+.b-danger:hover {
+    color: #cc0008;
+    background: none;
+  }
+  
+.b-danger {
+    color: #FFFFFF;
+    background: #cc0008; 
+}
+
+/* warning b */
+
+.b-warning { transition-duration: 0.4s; }
+
+.b-warning:hover {
+    color: #f29500;
+    background: none;
+  }
+  
+.b-warning {
+    color: #FFFFFF;
+    background: #f2bd28; 
+}
+
+/* light b */
+
+.b-light { transition-duration: 0.4s; }
+
+.b-light:hover {
+    color: #424242;
+    background: none;
+  }
+  
+.b-light {
+    color: #424242;
+    background: #FFFFFF; 
+}
+
+/* gray b */
+
+.b-gray { transition-duration: 0.4s; }
+
+.b-gray:hover {
+    color: #424242;
+    background: none;
+  }
+  
+.b-gray {
+    color: #FFFFFF;
+    background: #424242; 
+}
+
+.card-shd {
+    max-width: 650px;
+    height: auto;
+    border: none;
+    background: none;
+    padding: 20px;
+    box-shadow: 0px 0px 5px #424242;
+}
+
+.cd-hv:hover {
+    transform: scale(1.1);
+}
+
+:root {
+    --color: #154dff;
+}
+
+.text {
+    color: var(--color);
+}
+
+.version {
+    color: #424242;
+    font-family: Tahoma;
+}
+
+.cd {
+    width: 100%;
+    height: auto;
+    border: none;
+    padding: 20px;
+} 
+
+.cd-dark {
+    background: #00284e;
+}
+
+.cd-light {
+    background: #FFFFFF;
+}
+
+
+
+
+
